@@ -31,7 +31,7 @@ C<perl -MCPAN -e "install Bundle::Melody::Test">
     	Test::More
     	Test::PerlTidy
     	Test::Pod
-    	Test::PodCoverage
+    	Test::Pod::Coverage
     	Test::Strict
  
 =head1 DESCRIPTION
