@@ -10,8 +10,8 @@ WriteMakefile(
     'META_MERGE'       => {
         'resources' => {
             'license'    => 'http://dev.perl.org/licenses/',
-            'repository' => 'http://github.com/openmelody/melody',
+            'repository' => 'http://github.com/tima/perl-bundle-melody-test',
             'bugtracker' => 'https://openmelody.lighthouseapp.com/projects/26604-melody',
         },
-
+	}
 );

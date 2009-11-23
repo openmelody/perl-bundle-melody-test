@@ -1,0 +1,11 @@
+\.git
+\.old$
+\.bak$
+^build
+^MANIFEST.SKIP
+^Makefile$
+#^t\b
+test
+^\._
+blib
+pm_to_blib
